@@ -4,5 +4,18 @@
     text-align: left;
     text-shadow: 30cap;
     padding: 0.5%;
-
 }
+body {
+  background-color: #fdf6e3;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: darkred;
+  text-align: center;
+}
+
+table {
+  border: 2px solid black;
+}
+

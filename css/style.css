@@ -1,24 +1,39 @@
-#homenavigation{
-    background-color: rgba(0, 187, 255, 0.953);
-    column-rule-color: rgb(219, 129, 19);
-    text-align: left;
-    text-shadow: 30cap;
-    padding: 0.5%;
-}
 body {
-  background-color: #fdf6e3;
-  font-family: Arial, sans-serif;
+    background-color: #f5f5dc;
+    font-family: Arial, sans-serif;
+    margin: 20px;
 }
 
+/* Heading style */
 h1 {
-  color: darkred;
-  text-align: center;
+    color: darkred;
+    text-align: center;
 }
 
-table {
-  border: 2px solid black;
-  background-color: aqua;
-  
+/* Paragraph style */
+p {
+    color: #333;
+    font-size: 18px;
 }
+
+/* Table styling */
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 60%;
+}
+
+/* Table cells */
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+/* Image styling */
+img {
+    border-radius: 10px;
+}
+
 
 
